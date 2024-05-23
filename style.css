@@ -1,0 +1,28 @@
+.backgraund1 {
+    background-image: url(sprite/background.jpg);
+    background-size: cover;
+    height: 700px;
+    display: flex;
+}
+
+.leftMenu {
+    width: 70px;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.name {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.431);
+    text-align: center;
+    margin: 2px 0px;
+}
+
+.eqip {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(124, 79, 79, 0.431);
+    text-align: center;
+    margin: 2px 0px;
+}
