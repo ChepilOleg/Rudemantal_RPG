@@ -1,3 +1,6 @@
+import { qwer } from "./Unit";
+// alert(new qwer("ss"));
+
 class Unit {
     _hitPoints = 10;
     _storege = new Map();
